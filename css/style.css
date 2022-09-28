@@ -1,0 +1,48 @@
+#myCarousel {
+    opacity: 0.9;
+}
+#myCarousel h1 {
+    color: #ffc107;
+}
+.carousel-item img { 
+    width: 100%;
+    height: 650px;
+}
+.contact-us{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    clear: right;
+    width: 100%;
+    background-color:grey;
+    
+    }
+    .contact-us div{
+    display: inline-block;
+    width: 45%;
+    }   
+    .float-left{
+        float: left;
+        }
+    .float-left h2{
+    text-transform: uppercase;
+    color: white;
+    margin: 10px;
+    }
+    .input-form{
+        margin: 8px;
+        padding: 8px;
+        width: 500px;
+        border: none;
+        border-radius: 5px;
+    } 
+      
+    
+    iframe {
+    width: 100%;
+    height: 100%;
+    }
+    .clr{
+        color: #f1f1f1;
+        font-size: 25px;
+
+    }
